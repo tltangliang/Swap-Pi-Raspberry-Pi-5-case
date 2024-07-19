@@ -1,5 +1,5 @@
 # Swap-Pi-Raspberry-Pi-5-case
-Swap Pi icecifically designed for Raspberry Pi 5 and is not compatible with other models.
+Swap Pi icecifically designed for Raspberry Pi 5 and is not compatible with other models. Support rear USB PD Type-C, full HDMI, NVMe SSD mount and PWM 4010 FAN.
 ## Summary
 
 ![image](./image/1.jpeg "Swap-Pi-1")
