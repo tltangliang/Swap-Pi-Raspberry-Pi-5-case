@@ -75,10 +75,15 @@ All screws are fixed with heat-set nuts, please use [M2.5*5*4](https://amzn.to/3
 
 Swap Pi has 7 parts:
 
-1. Swap Pi Case main part (3D print)
-2. Swap Pi Case front part (3D print)
-3. Swap Pi Case back part (3D print)
+1. Swap Pi Case main part ( [3D print](https://github.com/tltangliang/Swap-Pi-Raspberry-Pi-5-case/releases/download/v1.0/Swap.Pi.Case.stl.v1.0.zip) )
+2. Swap Pi Case front part ( [3D print](https://github.com/tltangliang/Swap-Pi-Raspberry-Pi-5-case/releases/download/v1.0/Swap.Pi.Case.stl.v1.0.zip) )
+3. Swap Pi Case back part ( [3D print](https://github.com/tltangliang/Swap-Pi-Raspberry-Pi-5-case/releases/download/v1.0/Swap.Pi.Case.stl.v1.0.zip) )
 4. DeskPi KL-P24 Micro HDMI to HDMI Adapter Board ( from [DeskPi.com](https://www.deskpi.com) )
 5. Raspberry Pi 5 ( from [Raspberry Pi](https://www.raspberrypi.com/) )
-6. NVMe base board NVPiI5-2280B (from PCBWay)
-7. 4010 FAN (from amazon.com)
+6. NVMe base board NVPI5-2280B (from [PCBWay](https://www.pcbway.com/project/gifts_detail/NVPI5_2280B_d0fc0b49.html))
+7. 4010 FAN (from [amazon.com](https://amzn.to/46bspKf) )
+
+### Assembled Accessories
+1. M2.5 screw x 11
+2. [M2.5*5*4](https://amzn.to/3W5I9db) heat-set nuts x 11
+
