@@ -17,7 +17,7 @@ The case features a pull-out design overall, making it easy for quick disassembl
 ## Electronic
 ### Rear IO
 ![image](./image/4.jpeg "Swap-Pi-4")
-Use the  [DeskPi KL-P24 Micro HDMI to HDMI expansion board](https://deskpi.com/collections/new-arrival/products/deskpi-kl-p24-raspberry-pi-adapter-board)to route the USB and micro HDMI ports of the Pi 5 to the back.
+Use the  [GeeekPi Micro HDMI to HDMI Adapter Board for Raspberry Pi 5](https://amzn.to/3YuvVxh)to route the USB and micro HDMI ports of the Pi 5 to the back.
 
 ### NVMe expansion
 On the other side, you can install an NVMe expansion board.
@@ -78,7 +78,7 @@ Swap Pi has 7 parts:
 1. Swap Pi Case main part ( [3D print](https://github.com/tltangliang/Swap-Pi-Raspberry-Pi-5-case/releases/download/v1.0/Swap.Pi.Case.stl.v1.0.zip) )
 2. Swap Pi Case front part ( [3D print](https://github.com/tltangliang/Swap-Pi-Raspberry-Pi-5-case/releases/download/v1.0/Swap.Pi.Case.stl.v1.0.zip) )
 3. Swap Pi Case back part ( [3D print](https://github.com/tltangliang/Swap-Pi-Raspberry-Pi-5-case/releases/download/v1.0/Swap.Pi.Case.stl.v1.0.zip) )
-4. DeskPi KL-P24 Micro HDMI to HDMI Adapter Board ( from [DeskPi.com](https://www.deskpi.com) )
+4. GeeekPi Micro HDMI to HDMI Adapter Board for Raspberry Pi 5 ( from ([GeekPi](https://amzn.to/3YuvVxh)) )
 5. Raspberry Pi 5 ( from [Raspberry Pi](https://www.raspberrypi.com/) )
 6. NVMe base board NVPI5-2280B (from [PCBWay](https://www.pcbway.com/project/gifts_detail/NVPI5_2280B_d0fc0b49.html))
 7. 4010 FAN (from [amazon.com](https://amzn.to/46bspKf) )
